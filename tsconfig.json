@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "rootDir": "src",
+        "outDir": "build",
+        "esModuleInterop": true,
+        "resolveJsonModule": true,
+        "lib": [
+            "es6"
+        ],
+        "module": "commonjs",
+        "allowJs": true,
+        "noImplicitAny": true
+    }
+}
